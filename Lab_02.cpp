@@ -21,6 +21,7 @@ int main()
     // Calculation of z1
     z1 = sin(pi / 2 + 3 * alpha) / (1 - sin(3 * alpha - pi));
 
+    // Calculation of z2
     z2 = 1 / tan(5 * pi / 4 + 3 * alpha / 2);
 
     cout << endl;
