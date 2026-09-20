@@ -1,3 +1,6 @@
+// Laboratory work No. 2
+// Variant 30
+
 #include <iostream>
 #include <cmath>
 
