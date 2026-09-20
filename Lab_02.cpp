@@ -15,6 +15,7 @@ int main()
     // Calculation of pi
     const double pi = 4 * atan(1.0);
 
+    // Input alpha
     cout << "alpha = ";
     cin >> alpha;
 
