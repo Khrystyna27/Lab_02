@@ -12,6 +12,7 @@ int main()
     double z1;    // результат обчислення першої формули
     double z2;    // результат обчислення другої формули
 
+    // Calculation of pi
     const double pi = 4 * atan(1.0);
 
     cout << "alpha = ";
