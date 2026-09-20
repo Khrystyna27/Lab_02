@@ -22,6 +22,7 @@ int main()
 
     z2 = 1 / tan(5 * pi / 4 + 3 * alpha / 2);
 
+    // Output results
     cout << endl;
     cout << "z1 = " << z1 << endl;
     cout << "z2 = " << z2 << endl;
